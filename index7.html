@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function check(a, b) {
+        let temp = a;
+        a = b;
+        b = temp;
+
+        alert(a + ' ' + b)
+    }
+
+    let x = parseInt(prompt(" input x"));
+    let y = parseInt(prompt("input y"));
+
+    check(x, y)
+</script>
+</body>
+</html>
