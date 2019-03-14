@@ -45,16 +45,6 @@
       <change afterPath="$PROJECT_DIR$/../luyen_tap_if_else_if/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../luyen_tap_if_else_if/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../luyen_tap_if_else_if/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index9.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../luyen_tap_tao_va_Su_dung_ham_01/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../luyen_tap_tao_va_Su_dung_ham_01/index1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../luyen_tap_tao_va_Su_dung_ham_01/index2.html" afterDir="false" />
@@ -85,10 +75,13 @@
       <change afterPath="$PROJECT_DIR$/../vonglapdo_while/do_while.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vonglapdo_while/javascript loops.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vonglapdo_while/vong_lap_for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xay_dung_lop_date/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xay_dung_lop_date/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_nhung_javaScript/java.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../caro/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -103,7 +96,7 @@
     <favorites_list name="luyen_tap_su_dung_ham_02" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -192,16 +185,17 @@
       <workItem from="1552508915200" duration="3348000" />
       <workItem from="1552551122580" duration="11640000" />
       <workItem from="1552574901722" duration="6473000" />
+      <workItem from="1552591809272" duration="297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24681000" />
+    <option name="totallyTimeSpent" value="24978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50162864" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -213,7 +207,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -306,13 +300,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index10.html" />
     <entry file="file://$PROJECT_DIR$/index9.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
